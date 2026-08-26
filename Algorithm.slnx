@@ -3,7 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Recursive/Recursive.vcxproj">
+  <Project Path="BruteForce/BruteForce.vcxproj" Id="cdec5d8c-4b56-4e04-a410-78b80935310d">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
+  <Project Path="Recursive/Recursive.vcxproj" Id="4a7a7d5f-9031-4e81-af38-33cd8ca4adc9">
     <Build Solution="*|x86" Project="false" />
   </Project>
 </Solution>

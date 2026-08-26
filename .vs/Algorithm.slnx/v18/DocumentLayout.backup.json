@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDEC5D8C-4B56-4E04-A410-78B80935310D}|BruteForce\\BruteForce.vcxproj|C:\\Workspace\\Algorithm\\BruteForce\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDEC5D8C-4B56-4E04-A410-78B80935310D}|BruteForce\\BruteForce.vcxproj|solutionrelative:BruteForce\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A7A7D5F-9031-4E81-AF38-33CD8CA4ADC9}|Recursive\\Recursive.vcxproj|C:\\Workspace\\Algorithm\\Recursive\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A7A7D5F-9031-4E81-AF38-33CD8CA4ADC9}|Recursive\\Recursive.vcxproj|solutionrelative:Recursive\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Workspace\\Algorithm\\Recursive\\Main.cpp",
               "RelativeDocumentMoniker": "Recursive\\Main.cpp",
               "ToolTip": "C:\\Workspace\\Algorithm\\Recursive\\Main.cpp",
               "RelativeToolTip": "Recursive\\Main.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-26T00:15:35.885Z",
+              "WhenOpened": "2026-08-26T01:11:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\BruteForce\\Main.cpp",
+              "RelativeDocumentMoniker": "BruteForce\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\BruteForce\\Main.cpp*",
+              "RelativeToolTip": "BruteForce\\Main.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T01:06:09.618Z",
               "EditorCaption": ""
             }
           ]

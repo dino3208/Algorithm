@@ -37,6 +37,10 @@ obj/x64/
 bin/x86/
 obj/x86/
 
+# Architecture & Build directories
+x64/
+x86/
+[Bb]uild/
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
@@ -53,7 +57,7 @@ bld/
 # (https://github.com/github/gitignore/pull/3736)
 #!**/[Bb]in/*.refresh
 
-# Visual Studio 2015/2017 cache/options directory
+# Visual Studio cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
@@ -126,6 +130,13 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.res
+
+# C/C++ Compiled Binaries & Libraries
+*.exe
+*.dll
+*.lib
+*.exp
 
 # Chutzpah Test files
 _Chutzpah*
@@ -427,3 +438,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
