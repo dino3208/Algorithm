@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Workspace\\Algorithm\\Intermediates\\Debug\\Recursive\\Main.obj",
+            "outputs": [
+                "C:\\Workspace\\Algorithm\\Intermediates\\Debug\\Recursive\\Main.cpp.obj.dt.module.json",
+                "C:\\Workspace\\Algorithm\\Intermediates\\Debug\\Recursive\\Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
