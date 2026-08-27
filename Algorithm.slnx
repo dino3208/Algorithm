@@ -15,6 +15,15 @@
   <Project Path="InsertionSort/InsertionSort.vcxproj" Id="64a5b56b-2432-4157-868f-739d0694a020">
     <Build Solution="*|x86" Project="false" />
   </Project>
+  <Project Path="PracticeBubbleSort/PracticeBubbleSort.vcxproj" Id="88bc7222-1302-4708-a881-094cc9ad39fd">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
+  <Project Path="PracticeInsertionSort/PracticeInsertionSort.vcxproj" Id="dcac23e8-e401-436d-bb5f-564191fba994">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
+  <Project Path="PracticeSelctionSort/PracticeSelctionSort.vcxproj" Id="d7a84e1a-9fa3-4ef0-9119-ee5aca96ac1e">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
   <Project Path="Random/Random.vcxproj" Id="08f653ab-c902-4dba-8c09-3ded98ede526">
     <Build Solution="*|x86" Project="false" />
   </Project>

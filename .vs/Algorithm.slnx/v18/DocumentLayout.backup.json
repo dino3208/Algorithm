@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Workspace\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64A5B56B-2432-4157-868F-739D0694A020}|InsertionSort\\InsertionSort.vcxproj|C:\\Workspace\\Algorithm\\InsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64A5B56B-2432-4157-868F-739D0694A020}|InsertionSort\\InsertionSort.vcxproj|solutionrelative:InsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCAC23E8-E401-436D-BB5F-564191FBA994}|PracticeInsertionSort\\PracticeInsertionSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCAC23E8-E401-436D-BB5F-564191FBA994}|PracticeInsertionSort\\PracticeInsertionSort.vcxproj|solutionrelative:PracticeInsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A84E1A-9FA3-4EF0-9119-EE5ACA96AC1E}|PracticeSelctionSort\\PracticeSelctionSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7A84E1A-9FA3-4EF0-9119-EE5ACA96AC1E}|PracticeSelctionSort\\PracticeSelctionSort.vcxproj|solutionrelative:PracticeSelctionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BC7222-1302-4708-A881-094CC9AD39FD}|PracticeBubbleSort\\PracticeBubbleSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88BC7222-1302-4708-A881-094CC9AD39FD}|PracticeBubbleSort\\PracticeBubbleSort.vcxproj|solutionrelative:PracticeBubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +32,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\Algorithm\\InsertionSort\\Main.cpp",
-              "RelativeDocumentMoniker": "InsertionSort\\Main.cpp",
-              "ToolTip": "C:\\Workspace\\Algorithm\\InsertionSort\\Main.cpp",
-              "RelativeToolTip": "InsertionSort\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "PracticeInsertionSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp",
+              "RelativeToolTip": "PracticeInsertionSort\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-27T05:26:34.58Z",
+              "WhenOpened": "2026-08-27T10:06:29.301Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp",
+              "RelativeDocumentMoniker": "PracticeBubbleSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp",
+              "RelativeToolTip": "PracticeBubbleSort\\Main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-27T10:03:14.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "PracticeSelctionSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp",
+              "RelativeToolTip": "PracticeSelctionSort\\Main.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-27T09:25:24.789Z"
             }
           ]
         },

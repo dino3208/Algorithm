@@ -10,7 +10,7 @@ void Swap(int& a, int& b)
 }
 
 // 로직(기능)을 주입할 때 함수 포인터 활용
-using Comparer = bool(*)(int, int);
+using Comparer = std::function<bool(int, int)>;
 // typedef bool (*Comparer)(int, int);
 
 // 비교 함수
