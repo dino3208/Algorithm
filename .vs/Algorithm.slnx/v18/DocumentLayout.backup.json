@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Workspace\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F653AB-C902-4DBA-8C09-3DED98EDE526}|Random\\Random.vcxproj|C:\\Workspace\\Algorithm\\Random\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F653AB-C902-4DBA-8C09-3DED98EDE526}|Random\\Random.vcxproj|solutionrelative:Random\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{649CE5CF-870F-4059-9D1E-A08ACFBC3E78}|SelectionSort\\SelectionSort.vcxproj|C:\\Workspace\\Algorithm\\SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{649CE5CF-870F-4059-9D1E-A08ACFBC3E78}|SelectionSort\\SelectionSort.vcxproj|solutionrelative:SelectionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\Algorithm\\Random\\Main.cpp",
-              "RelativeDocumentMoniker": "Random\\Main.cpp",
-              "ToolTip": "C:\\Workspace\\Algorithm\\Random\\Main.cpp",
-              "RelativeToolTip": "Random\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\SelectionSort\\Main.cpp",
+              "RelativeDocumentMoniker": "SelectionSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\SelectionSort\\Main.cpp",
+              "RelativeToolTip": "SelectionSort\\Main.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-26T05:19:08.492Z",
+              "WhenOpened": "2026-08-27T02:39:50.15Z",
               "EditorCaption": ""
             }
           ]

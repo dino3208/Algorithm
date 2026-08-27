@@ -9,10 +9,14 @@
   <Project Path="BruteForce/BruteForce.vcxproj" Id="cdec5d8c-4b56-4e04-a410-78b80935310d">
     <Build Solution="*|x86" Project="false" />
   </Project>
+  <Project Path="BubbleAlign/BubbleAlign.vcxproj" Id="3a9ca6d6-fdcc-495a-912a-85be17ca39e2">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
   <Project Path="Random/Random.vcxproj" Id="08f653ab-c902-4dba-8c09-3ded98ede526">
     <Build Solution="*|x86" Project="false" />
   </Project>
   <Project Path="Recursive/Recursive.vcxproj" Id="4a7a7d5f-9031-4e81-af38-33cd8ca4adc9">
     <Build Solution="*|x86" Project="false" />
   </Project>
+  <Project Path="SelectionSort/SelectionSort.vcxproj" Id="649ce5cf-870f-4059-9d1e-a08acfbc3e78" />
 </Solution>
