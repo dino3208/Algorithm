@@ -10,6 +10,9 @@
     <Project Path="PracticeInsertionSort/PracticeInsertionSort.vcxproj" Id="dcac23e8-e401-436d-bb5f-564191fba994">
       <Build Solution="*|x86" Project="false" />
     </Project>
+    <Project Path="PracticeMergeSort/PracticeMergeSort.vcxproj" Id="3dd94fc9-c025-4950-af8b-372677f24026">
+      <Build Solution="*|x86" Project="false" />
+    </Project>
     <Project Path="PracticeQuickSort/PracticeQuickSort.vcxproj" Id="d77c0dde-3792-45e8-8c98-cc2165671091" />
     <Project Path="PracticeSelctionSort/PracticeSelctionSort.vcxproj" Id="d7a84e1a-9fa3-4ef0-9119-ee5aca96ac1e">
       <Build Solution="*|x86" Project="false" />
