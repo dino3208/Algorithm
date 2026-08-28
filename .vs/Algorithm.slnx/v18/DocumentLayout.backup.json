@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\Workspace\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCAC23E8-E401-436D-BB5F-564191FBA994}|PracticeInsertionSort\\PracticeInsertionSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCAC23E8-E401-436D-BB5F-564191FBA994}|PracticeInsertionSort\\PracticeInsertionSort.vcxproj|solutionrelative:PracticeInsertionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D77C0DDE-3792-45E8-8C98-CC2165671091}|PracticeQuickSort\\PracticeQuickSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeQuickSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D77C0DDE-3792-45E8-8C98-CC2165671091}|PracticeQuickSort\\PracticeQuickSort.vcxproj|solutionrelative:PracticeQuickSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7A84E1A-9FA3-4EF0-9119-EE5ACA96AC1E}|PracticeSelctionSort\\PracticeSelctionSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D7A84E1A-9FA3-4EF0-9119-EE5ACA96AC1E}|PracticeSelctionSort\\PracticeSelctionSort.vcxproj|solutionrelative:PracticeSelctionSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E9FA840-0ED0-404E-A7C1-D54ED0397DC5}|MergeSort\\MergeSort.vcxproj|C:\\Workspace\\Algorithm\\MergeSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E9FA840-0ED0-404E-A7C1-D54ED0397DC5}|MergeSort\\MergeSort.vcxproj|solutionrelative:MergeSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88BC7222-1302-4708-A881-094CC9AD39FD}|PracticeBubbleSort\\PracticeBubbleSort.vcxproj|C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88BC7222-1302-4708-A881-094CC9AD39FD}|PracticeBubbleSort\\PracticeBubbleSort.vcxproj|solutionrelative:PracticeBubbleSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF27D6F7-3DD0-42B5-BABF-68352E83E45F}|QuickSort\\QuickSort.vcxproj|C:\\Workspace\\Algorithm\\QuickSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF27D6F7-3DD0-42B5-BABF-68352E83E45F}|QuickSort\\QuickSort.vcxproj|solutionrelative:QuickSort\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +33,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp",
-              "RelativeDocumentMoniker": "PracticeInsertionSort\\Main.cpp",
-              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeInsertionSort\\Main.cpp",
-              "RelativeToolTip": "PracticeInsertionSort\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-27T10:06:29.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp",
-              "RelativeDocumentMoniker": "PracticeBubbleSort\\Main.cpp",
-              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeBubbleSort\\Main.cpp",
-              "RelativeToolTip": "PracticeBubbleSort\\Main.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-27T10:03:14.275Z"
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAEwBYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-28T06:38:52.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp",
-              "RelativeDocumentMoniker": "PracticeSelctionSort\\Main.cpp",
-              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeSelctionSort\\Main.cpp",
-              "RelativeToolTip": "PracticeSelctionSort\\Main.cpp",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwC4AAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\MergeSort\\Main.cpp",
+              "RelativeDocumentMoniker": "MergeSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\MergeSort\\Main.cpp",
+              "RelativeToolTip": "MergeSort\\Main.cpp",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAOYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-27T09:25:24.789Z"
+              "WhenOpened": "2026-08-28T05:26:42.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\PracticeQuickSort\\Main.cpp",
+              "RelativeDocumentMoniker": "PracticeQuickSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\PracticeQuickSort\\Main.cpp",
+              "RelativeToolTip": "PracticeQuickSort\\Main.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAD4v1UAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-28T02:30:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Workspace\\Algorithm\\QuickSort\\Main.cpp",
+              "RelativeDocumentMoniker": "QuickSort\\Main.cpp",
+              "ToolTip": "C:\\Workspace\\Algorithm\\QuickSort\\Main.cpp",
+              "RelativeToolTip": "QuickSort\\Main.cpp",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAQwEsBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-28T00:27:04.986Z"
             }
           ]
         },
