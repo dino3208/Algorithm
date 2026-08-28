@@ -1,5 +1,4 @@
-#include <cstdlib>
-#include <ctime>
+#include <cstring>
 #include <iostream>
 
 template<typename T>
@@ -10,80 +9,32 @@ void Swap(T& a, T& b)
 	b = temp;
 }
 
-int RandomRange(int min, int max)
+class Person
 {
-	int diff = (max - min) + 1;
-	return ((diff * rand()) / (RAND_MAX + 1)) + min;
-}
-
-int Partition(int* array, int left, int right)
-{
-	int pivot = array[left];
-	int low = left + 1;
-	int high = right;
-
-	while (low <= high)
+public:
+	Person(const char* name, int age)
+		:age(age)
 	{
-		// 피벗보다 큰 값을 찾는다
-		while (low <= right && array[low] <= pivot)
-		{
-			++low;
-		}
-
-		// 피벗보다 작은 값을 찾는다
-		while (high > left && array[high] >= pivot)
-		{
-			--high;
-		}
-
-		if (low > high)
-		{
-			break;
-		}
-
-		Swap(array[low], array[high]);
-		return high;
-	}
-}
-
-void QuickSort(int array[], int left, int right)
-{
-	if (left < right)
-	{
-		int pivotIndex = Partition(array, left, right);
-
-		QuickSort(array, left, pivotIndex - 1);
-		QuickSort(array, pivotIndex + 1, right);
-	}
-}
-
-int main()
-{
-	const int length = 10;
-	int array[length];
-
-	// 프로그램이 시작될 때 한 번만 종자값을 설정한다
-	srand(static_cast<unsigned int>(time(nullptr)));
-
-	std::cout << "선택된 수: \n";
-	for (int ix = 0;ix < length;++ix)
-	{
-		int value = RandomRange(1, 100);
-		array[ix] = value;
-		std::cout << value << " ";
+		int length = static_cast<int>(strlen(name) + 1);
+		this->name = new char[length];
+		strcpy_s(this->name, length, name);
 	}
 
-	std::cout << "\n\n";
-
-	QuickSort(array, 0, length - 1);
-
-	std::cout << "퀵 정렬 후 데이터: \n";
-	for (int ix = 0;ix < length;++ix)
+	~Person()
 	{
-		std::cout << array[ix] << " ";
+		delete[] name;
 	}
 
-	std::cout << "\n";
+	const char* GetName() const { return name; }
+	int GetAge() const { return age;}
+	void SetAge(int newAge) { age = newAge; }
 
-	std::cin.get();
+private:
+	char* name;
+	int age;
+};
+
+int Partition(Person** array, int left, int right)
+{
+
 }
