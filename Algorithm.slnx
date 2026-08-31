@@ -4,6 +4,7 @@
   </Configurations>
   <Folder Name="/Practice/">
     <Project Path="PracticeBubbleSort/PracticeBubbleSort.vcxproj" Id="88bc7222-1302-4708-a881-094cc9ad39fd" />
+    <Project Path="PracticeHeapSort/PracticeHeapSort.vcxproj" Id="fb19a37f-f812-4c38-bf54-d43263fd59ce" />
     <Project Path="PracticeInsertionSort/PracticeInsertionSort.vcxproj" Id="dcac23e8-e401-436d-bb5f-564191fba994" />
     <Project Path="PracticeMergeSort/PracticeMergeSort.vcxproj" Id="3dd94fc9-c025-4950-af8b-372677f24026" />
     <Project Path="PracticeQuickSort/PracticeQuickSort.vcxproj" Id="d77c0dde-3792-45e8-8c98-cc2165671091" />
