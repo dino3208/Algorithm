@@ -1,44 +1,22 @@
 <Solution>
   <Configurations>
     <Platform Name="x64" />
-    <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Practice/">
-    <Project Path="PracticeBubbleSort/PracticeBubbleSort.vcxproj" Id="88bc7222-1302-4708-a881-094cc9ad39fd">
-      <Build Solution="*|x86" Project="false" />
-    </Project>
-    <Project Path="PracticeInsertionSort/PracticeInsertionSort.vcxproj" Id="dcac23e8-e401-436d-bb5f-564191fba994">
-      <Build Solution="*|x86" Project="false" />
-    </Project>
-    <Project Path="PracticeMergeSort/PracticeMergeSort.vcxproj" Id="3dd94fc9-c025-4950-af8b-372677f24026">
-      <Build Solution="*|x86" Project="false" />
-    </Project>
+    <Project Path="PracticeBubbleSort/PracticeBubbleSort.vcxproj" Id="88bc7222-1302-4708-a881-094cc9ad39fd" />
+    <Project Path="PracticeInsertionSort/PracticeInsertionSort.vcxproj" Id="dcac23e8-e401-436d-bb5f-564191fba994" />
+    <Project Path="PracticeMergeSort/PracticeMergeSort.vcxproj" Id="3dd94fc9-c025-4950-af8b-372677f24026" />
     <Project Path="PracticeQuickSort/PracticeQuickSort.vcxproj" Id="d77c0dde-3792-45e8-8c98-cc2165671091" />
-    <Project Path="PracticeSelctionSort/PracticeSelctionSort.vcxproj" Id="d7a84e1a-9fa3-4ef0-9119-ee5aca96ac1e">
-      <Build Solution="*|x86" Project="false" />
-    </Project>
+    <Project Path="PracticeSelctionSort/PracticeSelctionSort.vcxproj" Id="d7a84e1a-9fa3-4ef0-9119-ee5aca96ac1e" />
   </Folder>
-  <Project Path="BinarySearch/BinarySearch.vcxproj" Id="6de3ef56-9115-457b-9a1f-f9c2083f1fee">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
-  <Project Path="BruteForce/BruteForce.vcxproj" Id="cdec5d8c-4b56-4e04-a410-78b80935310d">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
-  <Project Path="BubbleAlign/BubbleAlign.vcxproj" Id="3a9ca6d6-fdcc-495a-912a-85be17ca39e2">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
-  <Project Path="InsertionSort/InsertionSort.vcxproj" Id="64a5b56b-2432-4157-868f-739d0694a020">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
+  <Project Path="BinarySearch/BinarySearch.vcxproj" Id="6de3ef56-9115-457b-9a1f-f9c2083f1fee" />
+  <Project Path="BruteForce/BruteForce.vcxproj" Id="cdec5d8c-4b56-4e04-a410-78b80935310d" />
+  <Project Path="BubbleAlign/BubbleAlign.vcxproj" Id="3a9ca6d6-fdcc-495a-912a-85be17ca39e2" />
+  <Project Path="HeapSort/HeapSort.vcxproj" Id="3b2beb98-08d5-4d4c-9222-6dbbc2ab3776" />
+  <Project Path="InsertionSort/InsertionSort.vcxproj" Id="64a5b56b-2432-4157-868f-739d0694a020" />
   <Project Path="MergeSort/MergeSort.vcxproj" Id="6e9fa840-0ed0-404e-a7c1-d54ed0397dc5" />
-  <Project Path="QuickSort/QuickSort.vcxproj" Id="cf27d6f7-3dd0-42b5-babf-68352e83e45f">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
-  <Project Path="Random/Random.vcxproj" Id="08f653ab-c902-4dba-8c09-3ded98ede526">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
-  <Project Path="Recursive/Recursive.vcxproj" Id="4a7a7d5f-9031-4e81-af38-33cd8ca4adc9">
-    <Build Solution="*|x86" Project="false" />
-  </Project>
+  <Project Path="QuickSort/QuickSort.vcxproj" Id="cf27d6f7-3dd0-42b5-babf-68352e83e45f" />
+  <Project Path="Random/Random.vcxproj" Id="08f653ab-c902-4dba-8c09-3ded98ede526" />
+  <Project Path="Recursive/Recursive.vcxproj" Id="4a7a7d5f-9031-4e81-af38-33cd8ca4adc9" />
   <Project Path="SelectionSort/SelectionSort.vcxproj" Id="649ce5cf-870f-4059-9d1e-a08acfbc3e78" />
 </Solution>
